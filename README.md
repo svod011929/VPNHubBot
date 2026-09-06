@@ -418,7 +418,7 @@ http://<VPS_IP>:5050/
 
 📱 **Telegram:** [@KodoDrive](https://t.me/KodoDrive)  
 🤖 **Демо-бот:** [@fx_vpnshop_bot](https://t.me/fx_vpnshop_bot)  
-🌐 **Веб-сайт:** https://kododrive.ru
+🌐 **Веб-сайт:** 
 
 ---
 
@@ -450,7 +450,7 @@ MIT License — используйте в своих проектах свобо
 
 ---
 
-**© 2025 kododrive.ru**  
+**© 2025 **  
 **Последнее обновление:** Октябрь 2025
 
 ---
@@ -461,7 +461,7 @@ MIT License — используйте в своих проектах свобо
 
 ## Проекты KodoDrive
 
-Другие проекты автора: [профиль @svod011929](https://github.com/svod011929) · [сайт](https://kododrive.ru) · [Telegram](https://t.me/KodoDrive)
+Другие проекты автора: [профиль @svod011929](https://github.com/svod011929) · [Telegram](https://t.me/KodoDrive)
 
 ### VPN и инфраструктура
 
