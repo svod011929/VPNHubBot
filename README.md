@@ -1,3 +1,25 @@
+<!-- kododrive-readme-style -->
+
+<div align="center">
+  <img src="./assets/readme-header.svg" width="100%" alt="VPNHubBot" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/readme-meta.svg" width="100%" alt="meta" />
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/svod011929/VPNHubBot"><img src="https://img.shields.io/badge/GitHub-VPNHubBot-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="repo" /></a>
+  <a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="tg" /></a>
+  <a href="https://github.com/svod011929"><img src="https://img.shields.io/badge/Author-svod011929-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="author" /></a>
+</p>
+
+<!-- /kododrive-readme-style -->
+
 # 🚀 VPNHubBot — Телеграм-бот для управления VPN 🛡️
 
 ![VPNHubBot Badge](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram&style=flat-square) ![Release](https://img.shields.io/badge/version-1.0-green?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square) ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
@@ -456,6 +478,8 @@ MIT License — используйте в своих проектах свобо
 ---
 
 *Проект активно развивается. Следите за обновлениями в репозитории! ⭐*
+
+---
 
 <!-- kododrive-projects-block -->
 
